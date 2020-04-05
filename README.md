@@ -1,6 +1,4 @@
 # FirstGitHub
-依赖包
-  <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -82,8 +80,6 @@
       <version>5.1.0.RELEASE</version>
     </dependency>
 
-  </dependencies>
-  静态过滤
       <resources>
       <resource>
         <directory>src/main/java</directory>
