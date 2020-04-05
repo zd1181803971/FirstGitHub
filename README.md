@@ -1,4 +1,4 @@
-# FirstGitHub
+# SSM_IDEA
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
